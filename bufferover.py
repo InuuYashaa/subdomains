@@ -8,7 +8,7 @@ user_agent = random_agent.random_agent()
 
 class BufferOver:
     
-    service_url = "https://dns.bufferover.run/dns?q="
+    service_url = "https://dns.bufferover.run/dns?q=."
     
     def __init__(self, target):
         self.target = target
