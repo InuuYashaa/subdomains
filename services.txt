@@ -1,0 +1,10 @@
+## https://dns.bufferover.run/dns?q=target.com
+## https://certspotter.com/api/v0/certs?domain=target.com
+## https://api.hackertarget.com/hostsearch/?q=target.com
+## https://urlscan.io/api/v1/search/?q=domain:target.com
+## https://crt.sh/?q=target.com&output=json   ( slow? ) 
+
+## api key
+## https://www.virustotal.com/vtapi/v2/domain/report?domain=target.com&apikey=%s
+## https://graph.facebook.com/certificates?fields=domains&access_token=%s&query=*.target.com
+
